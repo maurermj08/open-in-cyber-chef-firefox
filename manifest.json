@@ -2,8 +2,8 @@
   "manifest_version": 2,
   "name": "Open in CyberChef",
   "short_name": "CyberChef",
-  "description": "Adds an open selected text in CyberChef option to the right-click context menu",
-  "version": "0.0.3",
+  "description": "Adds an open selected text in CyberChef option to the right-click context menu. CyberChef is a tool that can decode, decipher, and uncompress data in a wide variety of formats.",
+  "version": "0.0.4",
   "permissions": [
     "storage",
     "contextMenus", 
