@@ -13,7 +13,7 @@ openInCyberChef = function(word){
 };
 
 browser.contextMenus.create({
-  title: "Open in CyberChef (mv3)",
+  title: "Open in CyberChef",
   id: "open-in-cyberchef",
   contexts:["selection"]
 });
